@@ -1,7 +1,18 @@
 
-p{text-align: center
+body{
+	background: #FDF5E6;
 }
-body {background: #f2cbcb}
+
+p{
+	text-align: center
+}
+
+
+.principal{
+	background: #f2cbcb;
+
+	padding: 30px;
+}
 
 #banner {
 	width: 100%;
@@ -9,12 +20,35 @@ body {background: #f2cbcb}
 }
 
 strong {
-	color: #DB7093;
+	color:#DB7093 ;
 }
 h1 {
 	color: #FF1493;
 }
 
 h2 {
-	color:  #FF1493;
+	color:  #8B008B;
+}
+.itens {
+	font-style: italic;
+}
+
+.benefícios{
+	background: #D8BFD8;
+	padding: 20px;
+}
+
+h2{
+	text-align: center;
+}
+
+ul{
+	display: inline-block;
+	vertical-align: top;
+	width: 23%;
+	margin-right: 22%;
+}
+
+.imagembenefícios{
+	width: 50%;
 }
