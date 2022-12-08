@@ -22,11 +22,19 @@ p{
 strong {
 	color:#DB7093 ;
 }
-h1 {
-	color: #FF1493;
+
+h1{
+	background:#ffe5f0 ;
+	color: #1C1C1C;
+	padding: 30px;
+	font-size: 50px;
 }
 
 h2 {
+	color: #FF1493;
+}
+
+h3 {
 	color:  #8B008B;
 }
 .itens {
@@ -38,7 +46,7 @@ h2 {
 	padding: 20px;
 }
 
-h2{
+h3{
 	text-align: center;
 }
 
@@ -51,4 +59,11 @@ ul{
 
 .imagembenefícios{
 	width: 50%;
+}
+
+.titulo-centralizado{
+	text-aling: center 
+}
+.titulo-principal{
+	padding-left: 50px;
 }
